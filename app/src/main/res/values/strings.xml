@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikacja Quiz</string>
+    <string name="your_score">Twój wynik</string>
+    <string name="quiz">Quiz</string>
+</resources>

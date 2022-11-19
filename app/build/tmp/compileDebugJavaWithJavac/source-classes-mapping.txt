@@ -1,0 +1,18 @@
+com/example/projectwsb/projektquiz/DeveloperActivity.java
+ com.example.projectwsb.projektquiz.DeveloperActivity
+ com.example.projectwsb.projektquiz.DeveloperActivity$1
+com/example/projectwsb/projektquiz/BackgroundColor.java
+ com.example.projectwsb.projektquiz.BackgroundColor
+com/example/projectwsb/projektquiz/BuildConfig.java
+ com.example.projectwsb.projektquiz.BuildConfig
+com/example/projectwsb/projektquiz/ResultActivity.java
+ com.example.projectwsb.projektquiz.ResultActivity
+ com.example.projectwsb.projektquiz.ResultActivity$1
+com/example/projectwsb/projektquiz/QuestionsActivity.java
+ com.example.projectwsb.projektquiz.QuestionsActivity
+ com.example.projectwsb.projektquiz.QuestionsActivity$1
+ com.example.projectwsb.projektquiz.QuestionsActivity$2
+com/example/projectwsb/projektquiz/MainActivity.java
+ com.example.projectwsb.projektquiz.MainActivity
+ com.example.projectwsb.projektquiz.MainActivity$1
+ com.example.projectwsb.projektquiz.MainActivity$2
